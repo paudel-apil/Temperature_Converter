@@ -22,7 +22,6 @@ F = (C × 9/5) + 32
 * Metrics: Accuracy (note: not very meaningful for regression tasks)
 
 history = model.fit(X_train, y_train, epochs=500, verbose=0)
-```
 
 ## Usage
 
